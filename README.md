@@ -1,2 +1,1 @@
-# kapienga-secure
-surveillance system
+# Home-surveillance-system-using-Python
