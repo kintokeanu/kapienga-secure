@@ -28,7 +28,7 @@ while True:
             exact_time = datetime.now().strftime('%Y-%b-%d-%H-%S-%f')
             cv2.imwrite("face detected" + str(exact_time) + ".jpg", img)
 # display video to user
-        cv2.imshow("home commit", frame)
+        cv2.imshow("home sure", frame)
         key = cv2.waitKey(1)
 
         if key == ord('q'):
